@@ -61,10 +61,6 @@
 </div>
 
 
-<div align="center">
- <samp><h1>haxorqt's Github stats</h1></samp> 
-</div>
-
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
