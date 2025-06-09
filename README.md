@@ -7,7 +7,7 @@
 </pre>
 </div>
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?font=monospace&duration=1240&pause=2800&color=ffff&center=true&width=600&lines=People%20Underground's%20And%20Script%20Kiddie;I+Love+BlackHat+:%3E">
+ <img src="https://readme-typing-svg.herokuapp.com/?font=monospace&duration=1240&pause=2800&color=ffff&center=true&width=600&lines=People%20Underground's%20And%20Script%20Kiddie;SEO+BlackHat+:%3E">
 </div>
 
 <div align="center">
