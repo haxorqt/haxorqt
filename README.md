@@ -1,7 +1,7 @@
 <div align="center">
 <br>
 
-<img src="https://imgku.vip/images/WARBM.gif)=" width="300">
+<img src="https://imgku.vip/images/WARBM.gif" width="300">
 
 </br>
 </pre>
